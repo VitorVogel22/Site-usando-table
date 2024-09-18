@@ -1,0 +1,76 @@
+body {margin: 0;  font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;}
+table {background-image: url(fundo\ 1.png); background-size: cover; background-repeat: no-repeat; width: 100%; }
+#roxo {background-color: #3A0B63;}
+td { width: 25%; text-align: center;  }
+.imgc1 {right: 50%;}
+#rosa {background-color: #FB45C7;}
+.texte {text-align: justify; color: white; font-size: 20px;} 
+.texte2 {text-align: left; color: white;font-size: 30px; }
+#verde {background-color: #89F668;}
+.verdee {color: #89F668;}
+.kdj { display: inline-block;}
+.div-left span {
+    display: block;
+    text-align: left;}
+    .div-center span {
+        display: block;
+        text-align: center;}
+        .imga{
+            column-count: 3;
+        }
+        .txtroxo { color: #661083; font-size: 20px;}
+        #roxo {background-color: #430B6E;}
+        .roxxx {background-color: #5B1078; color: #89F668; text-align: justify;}
+        .txt {font-size: x-large;} 
+        
+       #button{
+        align-self: center;
+        background-color: rgba(138, 77, 157, 1);
+        font-family: Raleway, sans-serif;
+        font-size: 19px;
+        font-style: normal;
+        font-weight: bold;
+       
+        justify-content: center;
+        width: 200px;
+        margin-left: 375px;
+        padding-top: 30px;
+        border-radius: 10px;
+        height: auto;
+        padding-top: 0.66em;
+        padding-bottom: 0.66em;
+       }
+       #button2 {
+        text-decoration: none;
+    color: white;
+       }
+
+       .zk {
+        width: 100px; column-count: 3;
+       }
+       .zk1 {
+        font-weight: bold; color: white;text-decoration: underline;
+       }
+       .zk2 {
+        font-size: 20px;color: white; font-weight: bold;
+       }
+       .zk3 {
+        color: white;
+       }
+       .zk4 {
+        padding: 10px;
+       }
+
+       #button2:hover {
+        color: gray;
+       }
+       td a {
+        display: contents; 
+        max-width: 10px; 
+        overflow: visible; 
+        white-space: nowrap; 
+        text-overflow: ellipsis; 
+    }
